@@ -1,10 +1,10 @@
 site_name: AI Toolbox
 site_description: A comprehensive AI toolbox for developers
-site_author: Your Name
+site_author: Abhinav Maity
 site_url: https://ai-toolbox.readthedocs.io
 
-repo_name: abhinavmaity-fi/ai-toolbox
-repo_url: https://github.com/abhinavmaity-fi/ai-toolbox
+repo_name: abhinavmaity/ai-toolbox
+repo_url: https://github.com/abhinavmaity/ai-toolbox
 edit_uri: edit/main/docs/
 
 theme:

@@ -18,7 +18,7 @@ For development, clone the repository and install in editable mode:
 
 ```bash
 # Clone the repository
-git clone https://github.com/abhinavmaity-fi/ai-toolbox.git
+git clone https://github.com/abhinavmaity/ai-toolbox.git
 cd ai-toolbox
 
 # Install in editable mode with dev dependencies
@@ -89,7 +89,7 @@ If you need help:
 
 1. Check the [documentation](index.md)
 2. Look at the [examples](examples.md)
-3. Search [existing issues](https://github.com/abhinavmaity-fi/ai-toolbox/issues)
+3. Search [existing issues](https://github.com/abhinavmaity/ai-toolbox/issues)
 4. Create a new issue if needed
 
 ## Common Issues

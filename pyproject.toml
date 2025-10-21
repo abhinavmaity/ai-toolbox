@@ -44,10 +44,10 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/abhinavmaity-fi/ai-toolbox"
+Homepage = "https://github.com/abhinavmaity/ai-toolbox"
 Documentation = "https://ai-toolbox.readthedocs.io"
-Repository = "https://github.com/abhinavmaity-fi/ai-toolbox"
-Issues = "https://github.com/abhinavmaity-fi/ai-toolbox/issues"
+Repository = "https://github.com/abhinavmaity/ai-toolbox"
+Issues = "https://github.com/abhinavmaity/ai-toolbox/issues"
 
 # Uncomment if you want to add CLI commands
 # [project.scripts]

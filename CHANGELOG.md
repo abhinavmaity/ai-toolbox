@@ -21,6 +21,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Basic AI toolbox functionality
 - Project scaffolding and configuration
 
-[Unreleased]: https://github.com/abhinavmaity-fi/ai-toolbox/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/abhinavmaity-fi/ai-toolbox/releases/tag/v0.1.0
+[Unreleased]: https://github.com/abhinavmaity/ai-toolbox/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/abhinavmaity/ai-toolbox/releases/tag/v0.1.0
 

@@ -2,8 +2,8 @@
 
 [![PyPI version](https://badge.fury.io/py/ai-toolbox.svg)](https://badge.fury.io/py/ai-toolbox)
 [![Python Versions](https://img.shields.io/pypi/pyversions/ai-toolbox.svg)](https://pypi.org/project/ai-toolbox/)
-[![Tests](https://github.com/abhinavmaity-fi/ai-toolbox/workflows/Tests/badge.svg)](https://github.com/abhinavmaity-fi/ai-toolbox/actions)
-[![codecov](https://codecov.io/gh/abhinavmaity-fi/ai-toolbox/branch/main/graph/badge.svg)](https://codecov.io/gh/abhinavmaity-fi/ai-toolbox)
+[![Tests](https://github.com/abhinavmaity/ai-toolbox/workflows/Tests/badge.svg)](https://github.com/abhinavmaity/ai-toolbox/actions)
+[![codecov](https://codecov.io/gh/abhinavmaity/ai-toolbox/branch/main/graph/badge.svg)](https://codecov.io/gh/abhinavmaity/ai-toolbox)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A comprehensive AI toolbox for developers providing essential utilities and tools for AI/ML projects.
@@ -55,7 +55,7 @@ Full documentation is available at [https://ai-toolbox.readthedocs.io](https://a
 
 ```bash
 # Clone the repository
-git clone https://github.com/abhinavmaity-fi/ai-toolbox.git
+git clone https://github.com/abhinavmaity/ai-toolbox.git
 cd ai-toolbox
 
 # Install in development mode with dev dependencies
@@ -122,7 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Authors
 
-- **Your Name** - *Initial work* - [abhinavmaity-fi](https://github.com/abhinavmaity-fi)
+- **Abhinav Maity** - *Initial work* - [abhinavmaity](https://github.com/abhinavmaity)
 
 ## Changelog
 
@@ -130,5 +130,5 @@ See [CHANGELOG.md](CHANGELOG.md) for a list of changes.
 
 ## Support
 
-If you have any questions or issues, please open an issue on [GitHub](https://github.com/abhinavmaity-fi/ai-toolbox/issues).
+If you have any questions or issues, please open an issue on [GitHub](https://github.com/abhinavmaity/ai-toolbox/issues).
 

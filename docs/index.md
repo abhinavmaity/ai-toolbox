@@ -57,9 +57,9 @@ If you encounter any issues or have questions:
 
 - Check the [API Reference](api.md)
 - Browse the [Examples](examples.md)
-- Open an issue on [GitHub](https://github.com/abhinavmaity-fi/ai-toolbox/issues)
+- Open an issue on [GitHub](https://github.com/abhinavmaity/ai-toolbox/issues)
 
 ## License
 
-AI Toolbox is released under the MIT License. See the [LICENSE](https://github.com/abhinavmaity-fi/ai-toolbox/blob/main/LICENSE) file for details.
+AI Toolbox is released under the MIT License. See the [LICENSE](https://github.com/abhinavmaity/ai-toolbox/blob/main/LICENSE) file for details.
 

@@ -5,7 +5,7 @@ Thank you for your interest in contributing! Please see our [Contributing Guide]
 ## Quick Start
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/abhinavmaity-fi/ai-toolbox.git`
+2. Clone your fork: `git clone https://github.com/abhinavmaity/ai-toolbox.git`
 3. Create a branch: `git checkout -b feature/your-feature`
 4. Install dev dependencies: `pip install -e ".[dev]"`
 5. Make your changes
