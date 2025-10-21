@@ -8,7 +8,7 @@ Thank you for your interest in contributing to AI Toolbox! This document provide
 
 ```bash
 # Fork the repository on GitHub, then clone your fork
-git clone https://github.com/yourusername/ai-toolbox.git
+git clone https://github.com/abhinavmaity-fi/ai-toolbox.git
 cd ai-toolbox
 ```
 

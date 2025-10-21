@@ -3,8 +3,8 @@ site_description: A comprehensive AI toolbox for developers
 site_author: Your Name
 site_url: https://ai-toolbox.readthedocs.io
 
-repo_name: yourusername/ai-toolbox
-repo_url: https://github.com/yourusername/ai-toolbox
+repo_name: abhinavmaity-fi/ai-toolbox
+repo_url: https://github.com/abhinavmaity-fi/ai-toolbox
 edit_uri: edit/main/docs/
 
 theme:

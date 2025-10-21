@@ -136,5 +136,5 @@ if __name__ == "__main__":
     main()
 ```
 
-For more examples, check out the [examples](https://github.com/yourusername/ai-toolbox/tree/main/examples) directory in the repository.
+For more examples, check out the [examples](https://github.com/abhinavmaity-fi/ai-toolbox/tree/main/examples) directory in the repository.
 
