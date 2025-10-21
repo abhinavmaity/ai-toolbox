@@ -11,6 +11,7 @@ A comprehensive AI toolbox for developers providing essential utilities and tool
 ## Features
 
 - 🚀 Easy to use API
+- 💻 Command-line interface with Click
 - 🔧 Modular and extensible design
 - 📦 Minimal dependencies
 - 🎯 Type-safe with full type hints
@@ -33,6 +34,8 @@ pip install ai-toolbox[dev]
 
 ## Quick Start
 
+### Python API
+
 ```python
 from ai_toolbox import AIToolbox
 
@@ -43,6 +46,18 @@ toolbox = AIToolbox(config={"option1": "value1"})
 data = [1, 2, 3, 4, 5]
 result = toolbox.process(data)
 print(result)
+```
+
+### Command Line Interface
+
+After installation, you can use the CLI:
+
+```bash
+# Get help
+ai-toolbox --help
+
+# Run the hello command
+ai-toolbox hello
 ```
 
 ## Documentation

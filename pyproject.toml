@@ -26,21 +26,23 @@ classifiers = [
 ]
 
 dependencies = [
-    # Add your dependencies here
-    # Example: "numpy>=1.20.0",
+    "click>=8.0.0",
 ]
 
 [project.optional-dependencies]
 dev = [
     "pytest>=7.0.0",
     "pytest-cov>=4.0.0",
+    "pytest-mock>=3.0.0",
     "black>=23.0.0",
     "ruff>=0.1.0",
     "mypy>=1.0.0",
+    "click>=8.0.0",  # Also include in dev for testing
 ]
 docs = [
     "mkdocs>=1.5.0",
     "mkdocs-material>=9.0.0",
+    "mkdocstrings[python]>=0.24.0",
 ]
 
 [project.urls]
@@ -49,9 +51,8 @@ Documentation = "https://ai-toolbox.readthedocs.io"
 Repository = "https://github.com/abhinavmaity/ai-toolbox"
 Issues = "https://github.com/abhinavmaity/ai-toolbox/issues"
 
-# Uncomment if you want to add CLI commands
-# [project.scripts]
-# ai-toolbox = "ai_toolbox.cli:main"
+[project.scripts]
+ai-toolbox = "ai_toolbox.main:cli"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/ai_toolbox"]
