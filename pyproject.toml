@@ -27,6 +27,9 @@ classifiers = [
 
 dependencies = [
     "click>=8.0.0",
+    "python-dotenv==1.1.1",
+    "litellm==1.74.14"
+
 ]
 
 [project.optional-dependencies]
